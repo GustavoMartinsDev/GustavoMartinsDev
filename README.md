@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Martins
 
 - 🔭 A procura de uma vaga Front-End
-- 🌱 Aprendendo com o Leonardo Leitão da Cod3er Cursos.
+- 🌱 Aprendendo com o Professor Leonardo Leitão da Cod3er Cursos.
 - 📫 Contate-me no e-mail: gustavomartins.developer@gmail.com
 - ⚡ Sempre me entregando ao maximo em tudo que faço!
 
