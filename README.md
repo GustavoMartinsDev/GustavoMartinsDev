@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Martins
 
-- 🔭 Desenvolvedor Front-End na RVC Advocacia.
+- 🔭 Desenvolvedor Full-Stack na RVC Advocacia.
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas.
 - 💬 Certificado de 100 Horas de desenvolvimento Web Developer 2022 + projetos.
 - 🖋 Curso de Ingês com certificado - avançado.
